@@ -3,6 +3,10 @@ An app that lets you determine the height of the candle based on how long it has
 
 Inspired by the scene from the TV show "High Potential," where Morgan determined how long a candle had been burning based on how much of it was left.
 
+Link: https://candle-phase.netlify.app/
+
+SourceForge page: https://sourceforge.net/projects/candle-phase/
+
 ![Preview](https://raw.githubusercontent.com/Northstrix/candle-phase/refs/heads/main/preview.gif)
 
 The app is fully localized into:
